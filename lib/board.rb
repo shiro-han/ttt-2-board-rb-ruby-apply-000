@@ -1,2 +1,2 @@
-board = new.Array
+board = Array.new
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
